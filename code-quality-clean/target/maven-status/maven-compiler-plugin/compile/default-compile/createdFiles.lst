@@ -1,0 +1,17 @@
+com\itechart\error\handling\mvc\validation\NameNotStartsWithI.class
+com\itechart\error\handling\mvc\ErrorPayload.class
+com\itechart\error\handling\mvc\validation\NameNotStartsWithIValidator.class
+com\itechart\error\handling\mvc\PersonRepositoryLoggingAspect.class
+com\itechart\error\handling\mvc\DataAccessException.class
+com\itechart\error\handling\EmailDao.class
+com\itechart\error\handling\mvc\PersonExceptionHandler.class
+com\itechart\App.class
+com\itechart\error\handling\mvc\WebConfig$1.class
+com\itechart\error\handling\mvc\WebConfig.class
+com\itechart\error\handling\mvc\PersonService.class
+com\itechart\error\handling\mvc\WebConfig$2.class
+com\itechart\error\handling\FileService.class
+com\itechart\error\handling\DaoException.class
+com\itechart\error\handling\mvc\PersonRepository.class
+com\itechart\error\handling\mvc\PersonController.class
+com\itechart\error\handling\mvc\Person.class

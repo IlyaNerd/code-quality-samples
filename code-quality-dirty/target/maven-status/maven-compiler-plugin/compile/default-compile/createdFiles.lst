@@ -1,0 +1,4 @@
+com\itechart\error\handling\DaoException.class
+com\itechart\error\handling\EmailDao.class
+com\itechart\error\handling\FileService.class
+com\itechart\Main.class
