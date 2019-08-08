@@ -1,8 +1,0 @@
-server.port: 9000
-#logging:
-#  file: app.log
-#  level:
-#    com.itechart: DEBUG
-#    org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG
-#  pattern:
-#    console: "%d{HH:mm:ss.SSS} %X{sessionId} [%thread] %highlight(%-5level) %logger{36} - %msg%n"
